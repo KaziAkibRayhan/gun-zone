@@ -45,7 +45,7 @@ const Navbar = () => {
               </div>
             </div>
           </div>
-          <div className="form-control mr-2">
+          <div className="form-control mr-2 hidden md:block lg:block">
             <input
               type="text"
               placeholder="Search"
